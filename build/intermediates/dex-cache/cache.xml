@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_63a76e9cae7efb2a4c64ac3be5bea20775c41bbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hjalmarayestas/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_6124f5ad8e40d89476dba16f8e7bea2509d0adcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_65e84636fe07cf50b669e63d88e0cb0ec1d08f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_453feb04f5c521c4dc0aedbfcf95b0a025e2c898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fc845ba75a423809e879fc4fa35a031a87654f87">
+        <dex dex="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f48a33d8f8dddb4b9086adcec91373759d478f6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dc7bd0bf8f2ed90d07eb9fb7864e5c6795635dba">
+        <dex dex="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d6c651ca6ebfa63b9026ce0fe78c5876e5acb0eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_559eead875e1c64e19b27771a7fd93dceb46c905/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/hjalmarayestas/AndroidStudioProjects/GuessANumber/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_7285c4043fd10185314252623019500aaee30e85/classes.dex" />
+    </item>
+
+</items>

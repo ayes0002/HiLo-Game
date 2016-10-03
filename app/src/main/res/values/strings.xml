@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HiLo Game</string>
+    <string name="attempt">Guess</string>
+    <string name="reset">Reset</string>
+    <string name="playAgain">Play Again!</string>
+    <string name="about">About</string>
+    <string name="author">Hjalmar Ayestas (ayes0002)</string>
+    <string name="count">Tries: </string>
+</resources>
